@@ -2,7 +2,7 @@
 
 This project was for Machine learning course that  aims to develop a machine learning model that can detect fake news articles with high accuracy. The model is trained on a dataset of labeled news articles and uses natural language processing techniques to extract features and classify articles as either fake or real using different machine learning model Logistic Regression, Decision Tree Classification, Gradient Boosting Classifier, Random Forest Classifier, Support Vector Machine (SVM), and Naive Bayes in order to compare between them.
 
-- The data set is e ISOT Fake News dataset 
+- The data set is  ISOT Fake News dataset 
 https://onlineacademiccommunity.uvic.ca/isot/?utm_medium=redirect&utm_source=%2Fdatasets%2Ffake-news%2Findex.php&utm_campaign=redirect-usage
 
 ## Getting Started
