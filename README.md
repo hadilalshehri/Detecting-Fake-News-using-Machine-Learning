@@ -36,7 +36,7 @@ Once you have installed the required libraries, you can run the fake news detect
 The project is structured as follows:
 
 - `fake_news_detection.py` - This is the main script that runs the fake news detection models.
-- `Main.ipynb` -  This is  Jupyter Notebook  that runs the fake news detection models.
+- `fake_news_detection.ipynb` -  This is  Jupyter Notebook  that runs the fake news detection models.
 
 
 ## Contributing
